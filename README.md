@@ -24,7 +24,7 @@ The simulations are based on fundamental principles of integrated optics, includ
 To use this simulation tool, clone this repository to your local machine:
 
 ```bash
-git clone [repository_url]
+git clone https://github.com/LongWeihan/Integrated-Optics-MRR-Analysis-Toolbox
 ```
 
 Navigate to the cloned directory. Ensure you have MATLAB installed.
